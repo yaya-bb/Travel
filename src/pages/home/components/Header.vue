@@ -31,7 +31,8 @@ export default{
       width: .64rem
       .back-icon
         text-align: center
-        font-size: .4rem
+        font-size: .2rem
+        margin-left: .2rem
     .header-input
       flex: 1
       height: .64rem
@@ -48,6 +49,6 @@ export default{
       text-align: center
       .arrow-icon
         margin-left: -.04rem
-        font-size: .2rem
+        font-size: .01rem
 
 </style>
