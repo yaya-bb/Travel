@@ -11,10 +11,14 @@
     "build": "node build/build.js"
   },
   "dependencies": {
+    "axios": "^0.27.2",
+    "element-ui": "^2.15.9",
     "fastclick": "^1.0.6",
     "stylus": "^0.58.1",
     "stylus-loader": "^3.0.2",
+    "swiper": "^5.4.5",
     "vue": "^2.5.2",
+    "vue-awesome-swiper": "^2.6.7",
     "vue-router": "^3.0.1"
   },
   "devDependencies": {
